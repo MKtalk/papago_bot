@@ -1,0 +1,5 @@
+*.pyc
+bothub.yaml
+__pycache__/
+.vscode/
+dist/
